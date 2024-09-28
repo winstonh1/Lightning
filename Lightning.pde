@@ -49,7 +49,7 @@ void draw()
     
     int hole_x = x; 
     
-    arc(hole_x,350,20,20, 0, PI);
+    arc(hole_x,350,20,30, 0, PI);
   }
 
 }
